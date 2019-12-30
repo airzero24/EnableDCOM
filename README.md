@@ -51,3 +51,4 @@ svchost.exe
 - [StdRegProv](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/regprov/stdregprov)
 - [Service Control Manager](https://docs.microsoft.com/en-us/windows/win32/services/service-control-manager)
 - [PInvoke](https://www.pinvoke.net)
+- [SharpSC](https://github.com/djhohnstein/SharpSC)
